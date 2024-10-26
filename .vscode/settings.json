@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.f": "glsl",
+        "*.v": "glsl",
+        "ostream": "cpp"
+    }
+}
